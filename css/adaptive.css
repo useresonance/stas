@@ -42,11 +42,14 @@
         font-size: 18px;
     }
 
+  
     .auth button{
         width: 100%;
         background-color:#090974;
         color: azure;
         border-radius: 10px;
+        padding: 0px;
+
 
     }
     .info_text{
